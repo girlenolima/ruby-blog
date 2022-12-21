@@ -6,6 +6,8 @@ Fixaçao de conhecimento sobre Ruby on Rails.
 - Rails
 - Bootstrap
 - Node 
+- Yarn
+- Git
 
 # Gems
 
