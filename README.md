@@ -5,6 +5,8 @@ Fixaçao de conhecimento sobre Ruby on Rails.
 - Ruby
 - Rails
 
+# Gems
+
 
 # Conceitos
 
