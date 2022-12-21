@@ -5,6 +5,7 @@ Fixaçao de conhecimento sobre Ruby on Rails.
 - Ruby
 - Rails
 - Bootstrap
+- Node 
 
 # Gems
 
